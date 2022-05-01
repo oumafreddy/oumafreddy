@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @oumafreddy
-- 👀 I’m interested in ... Applications integration and testing 
-- 🌱 I’m currently learning ...C#, Python and penetration testing 
-- 💞️ I’m looking to collaborate on ...with application testers, info sec professionals, full stack developers and project managers
+- 👀 I’m interested in ... Applications security, integration and testing/ auditing 
+- 🌱 I’m currently learning ...C#, Python and improving on my penetration testing skills
+- 💞️ I’m looking to collaborate on ... Projects that offer solutions to businesses and real life challanges by working with application testers,
+-    info sec professionals, full stack developers and project managers
 - 📫 How to reach me ...oumafredomondi@gmail.com
 
 <!---
