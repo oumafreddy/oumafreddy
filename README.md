@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Business Analysis,Applications security, Applications integration and testing/ auditing 
 - 🌱 I’m currently learning ...C#, Python and improving on my penetration testing skills
 - 💞️ I’m looking to collaborate on ... Projects that offer solutions to businesses and real life challanges by working with application testers,
--    ;-) info sec professionals, full stack developers and project managers
+-    ;-) info sec professionals, business analysts, full stack developers and project managers
 - 📫 How to reach me ...oumafredomondi@gmail.com
 
 <!---
